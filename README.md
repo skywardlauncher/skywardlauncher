@@ -1,12 +1,5 @@
-### Launching...
+### Skyward - 
 
-<script> 
-setTimeout(Launch, 1000); 
-  
-function Launch() {
- ### Launching....
-  }
- </script> 
 
 <!--
 **skywardlauncher/skywardlauncher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
